@@ -120,3 +120,4 @@ Remote state opcional: `TF_BACKEND_RESOURCE_GROUP`,
 `TF_BACKEND_STORAGE_ACCOUNT`, `TF_BACKEND_CONTAINER`, `TF_BACKEND_KEY`.
 
 teste deploy azure
+pipeline final test
